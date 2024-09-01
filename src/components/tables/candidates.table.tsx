@@ -34,6 +34,7 @@ const CandidatesTable: FC = () => {
 
   useEffect(() => {
     loadMoreCandidates();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
@@ -51,6 +52,7 @@ const CandidatesTable: FC = () => {
     if (lastRowRef.current) observer.current.observe(lastRowRef.current);
 
     return () => clearTimeout(timer);
+      // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [loading, hasMore]);
 
   return (
