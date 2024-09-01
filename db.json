@@ -7,13 +7,6 @@
       "phone": "+1234567890",
       "position_applied": "Frontend Developer",
       "experience_years": 3,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS"
-      ],
-      "interview_date": "2024-09-01T10:00:00Z",
-      "interviewer": "John Doe",
       "status": "interviewed",
       "notes": "Strong experience in React, good communication skills."
     },
@@ -24,15 +17,8 @@
       "phone": "+0987654321",
       "position_applied": "Backend Developer",
       "experience_years": 5,
-      "skills": [
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-02T14:00:00Z",
-      "interviewer": "Jane Doe",
-      "status": "pending",
-      "notes": ""
+      "status": "interviewed",
+      "notes": "Good understanding of Node.js, need to work on communication skills."
     },
     {
       "id": "3",
@@ -41,16 +27,6 @@
       "phone": "+1234567890",
       "position_applied": "Full Stack Developer",
       "experience_years": 10,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-03T10:00:00Z",
-      "interviewer": "John Doe",
       "status": "applied",
       "notes": ""
     },
@@ -61,18 +37,8 @@
       "phone": "+0987654321",
       "position_applied": "Full Stack Developer",
       "experience_years": 8,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-04T14:00:00Z",
-      "interviewer": "Jane Doe",
-      "status": "applied",
-      "notes": ""
+      "status": "interviewed",
+      "notes": "Strong understanding of React and Node.js, need to work on problem-solving skills."
     },
     {
       "id": "5",
@@ -81,48 +47,26 @@
       "phone": "+1234567890",
       "position_applied": "Frontend Developer",
       "experience_years": 5,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Redux"
-      ],
-      "interview_date": "2024-09-05T10:00:00Z",
-      "interviewer": "John Doe",
       "status": "applied",
       "notes": ""
     },
     {
       "id": "6",
-      "name": "Frank Wang",
-      "email": "frank.wang@example.com",
-      "phone": "+0987654321",
+      "name": "Frank Garcia",
+      "email": "frank.garcia@example.com",
+      "phone": "+1234567890",
       "position_applied": "Backend Developer",
-      "experience_years": 5,
-      "skills": [
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-06T14:00:00Z",
-      "interviewer": "Jane Doe",
-      "status": "applied",
-      "notes": ""
+      "experience_years": 10,
+      "status": "interviewed",
+      "notes": "Good understanding of Node.js, need to work on communication skills."
     },
     {
       "id": "7",
-      "name": "George Lee",
-      "email": "george.lee@example.com",
+      "name": "Gabriella Patel",
+      "email": "gabriella.patel@example.com",
       "phone": "+1234567890",
-      "position_applied": "DevOps Engineer",
-      "experience_years": 3,
-      "skills": [
-        "Docker",
-        "Kubernetes",
-        "Ansible"
-      ],
-      "interview_date": "2024-09-07T10:00:00Z",
-      "interviewer": "John Doe",
+      "position_applied": "Full Stack Developer",
+      "experience_years": 5,
       "status": "applied",
       "notes": ""
     },
@@ -130,54 +74,29 @@
       "id": "8",
       "name": "Hannah Kim",
       "email": "hannah.kim@example.com",
-      "phone": "+0987654321",
-      "position_applied": "Full Stack Developer",
-      "experience_years": 10,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-08T14:00:00Z",
-      "interviewer": "Jane Doe",
-      "status": "applied",
-      "notes": ""
+      "phone": "+1234567890",
+      "position_applied": "Frontend Developer",
+      "experience_years": 8,
+      "status": "interviewed",
+      "notes": "Strong understanding of React, need to work on problem-solving skills."
     },
     {
       "id": "9",
-      "name": "Isaac Davis",
-      "email": "isaac.davis@example.com",
+      "name": "Ian Mitchell",
+      "email": "ian.mitchell@example.com",
       "phone": "+1234567890",
-      "position_applied": "Backend Developer",
-      "experience_years": 8,
-      "skills": [
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-09T10:00:00Z",
-      "interviewer": "John Doe",
-      "status": "applied",
-      "notes": ""
+      "position_applied": "Full Stack Developer",
+      "experience_years": 3,
+      "status": "interviewed",
+      "notes": "Good understanding of React and Node.js, need to work on communication skills."
     },
     {
       "id": "10",
-      "name": "Julia Patel",
-      "email": "julia.patel@example.com",
-      "phone": "+0987654321",
+      "name": "Julia Lee",
+      "email": "julia.lee@example.com",
+      "phone": "+1234567890",
       "position_applied": "Frontend Developer",
       "experience_years": 5,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Redux"
-      ],
-      "interview_date": "2024-09-10T14:00:00Z",
-      "interviewer": "Jane Doe",
       "status": "applied",
       "notes": ""
     },
@@ -186,358 +105,158 @@
       "name": "Kevin Brown",
       "email": "kevin.brown@example.com",
       "phone": "+1234567890",
-      "position_applied": "DevOps Engineer",
-      "experience_years": 3,
-      "skills": [
-        "Docker",
-        "Kubernetes",
-        "Ansible"
-      ],
-      "interview_date": "2024-09-11T10:00:00Z",
-      "interviewer": "John Doe",
+      "position_applied": "Full Stack Developer",
+      "experience_years": 10,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "12",
-      "name": "Lily Tran",
-      "email": "lily.tran@example.com",
-      "phone": "+0987654321",
-      "position_applied": "Full Stack Developer",
-      "experience_years": 10,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-12T14:00:00Z",
-      "interviewer": "Jane Doe",
+      "name": "Lisa Nguyen",
+      "email": "lisa.nguyen@example.com",
+      "phone": "+1234567890",
+      "position_applied": "Backend Developer",
+      "experience_years": 5,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "13",
-      "name": "Matthew Martin",
-      "email": "matthew.martin@example.com",
+      "name": "Matthew Hall",
+      "email": "matthew.hall@example.com",
       "phone": "+1234567890",
-      "position_applied": "Backend Developer",
+      "position_applied": "Full Stack Developer",
       "experience_years": 8,
-      "skills": [
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-13T10:00:00Z",
-      "interviewer": "John Doe",
       "status": "applied",
       "notes": ""
     },
     {
       "id": "14",
-      "name": "Natalie White",
-      "email": "natalie.white@example.com",
-      "phone": "+0987654321",
+      "name": "Natalie Martin",
+      "email": "natalie.martin@example.com",
+      "phone": "+1234567890",
       "position_applied": "Frontend Developer",
-      "experience_years": 5,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Redux"
-      ],
-      "interview_date": "2024-09-14T14:00:00Z",
-      "interviewer": "Jane Doe",
+      "experience_years": 10,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "15",
-      "name": "Olivia Brown",
-      "email": "olivia.brown@example.com",
+      "name": "Olivia Lee",
+      "email": "olivia.lee@example.com",
       "phone": "+1234567890",
-      "position_applied": "DevOps Engineer",
+      "position_applied": "Backend Developer",
       "experience_years": 3,
-      "skills": [
-        "Docker",
-        "Kubernetes",
-        "Ansible"
-      ],
-      "interview_date": "2024-09-15T10:00:00Z",
-      "interviewer": "John Doe",
       "status": "applied",
       "notes": ""
     },
     {
       "id": "16",
-      "name": "Patrick Lee",
-      "email": "patrick.lee@example.com",
-      "phone": "+0987654321",
+      "name": "Patrick Taylor",
+      "email": "patrick.taylor@example.com",
+      "phone": "+1234567890",
       "position_applied": "Full Stack Developer",
-      "experience_years": 10,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-16T14:00:00Z",
-      "interviewer": "Jane Doe",
+      "experience_years": 5,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "17",
-      "name": "Quinn Kim",
-      "email": "quinn.kim@example.com",
+      "name": "Rachel Kim",
+      "email": "rachel.kim@example.com",
       "phone": "+1234567890",
-      "position_applied": "Backend Developer",
-      "experience_years": 5,
-      "skills": [
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-17T10:00:00Z",
-      "interviewer": "John Doe",
+      "position_applied": "Frontend Developer",
+      "experience_years": 8,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "18",
-      "name": "Rachel Davis",
-      "email": "rachel.davis@example.com",
-      "phone": "+0987654321",
-      "position_applied": "Frontend Developer",
-      "experience_years": 8,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Redux"
-      ],
-      "interview_date": "2024-09-18T14:00:00Z",
-      "interviewer": "Jane Doe",
+      "name": "Samantha Brown",
+      "email": "samantha.brown@example.com",
+      "phone": "+1234567890",
+      "position_applied": "Backend Developer",
+      "experience_years": 10,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "19",
-      "name": "Sarah Chen",
-      "email": "sarah.chen@example.com",
+      "name": "Tanya Patel",
+      "email": "tanya.patel@example.com",
       "phone": "+1234567890",
-      "position_applied": "DevOps Engineer",
-      "experience_years": 10,
-      "skills": [
-        "Docker",
-        "Kubernetes",
-        "Ansible"
-      ],
-      "interview_date": "2024-09-19T10:00:00Z",
-      "interviewer": "John Doe",
+      "position_applied": "Full Stack Developer",
+      "experience_years": 3,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "20",
-      "name": "Thomas Martin",
-      "email": "thomas.martin@example.com",
-      "phone": "+0987654321",
-      "position_applied": "Full Stack Developer",
-      "experience_years": 3,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-20T14:00:00Z",
-      "interviewer": "Jane Doe",
+      "name": "Victor Lee",
+      "email": "victor.lee@example.com",
+      "phone": "+1234567890",
+      "position_applied": "Frontend Developer",
+      "experience_years": 5,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "21",
-      "name": "Uma Patel",
-      "email": "uma.patel@example.com",
+      "name": "Wendy Chen",
+      "email": "wendy.chen@example.com",
       "phone": "+1234567890",
       "position_applied": "Backend Developer",
-      "experience_years": 10,
-      "skills": [
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-21T10:00:00Z",
-      "interviewer": "John Doe",
+      "experience_years": 8,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "22",
-      "name": "Vincent Brown",
-      "email": "vincent.brown@example.com",
-      "phone": "+0987654321",
-      "position_applied": "Frontend Developer",
-      "experience_years": 5,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Redux"
-      ],
-      "interview_date": "2024-09-22T14:00:00Z",
-      "interviewer": "Jane Doe",
+      "name": "Xavier Martin",
+      "email": "xavier.martin@example.com",
+      "phone": "+1234567890",
+      "position_applied": "Full Stack Developer",
+      "experience_years": 10,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "23",
-      "name": "Walter Lee",
-      "email": "walter.lee@example.com",
+      "name": "Yvonne Kim",
+      "email": "yvonne.kim@example.com",
       "phone": "+1234567890",
-      "position_applied": "DevOps Engineer",
-      "experience_years": 10,
-      "skills": [
-        "Docker",
-        "Kubernetes",
-        "Ansible"
-      ],
-      "interview_date": "2024-09-23T10:00:00Z",
-      "interviewer": "John Doe",
+      "position_applied": "Frontend Developer",
+      "experience_years": 3,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "24",
-      "name": "Xavier Kim",
-      "email": "xavier.kim@example.com",
-      "phone": "+0987654321",
-      "position_applied": "Full Stack Developer",
-      "experience_years": 8,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-24T14:00:00Z",
-      "interviewer": "Jane Doe",
+      "name": "Zachary Brown",
+      "email": "zachary.brown@example.com",
+      "phone": "+1234567890",
+      "position_applied": "Backend Developer",
+      "experience_years": 5,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "25",
-      "name": "Yvonne Davis",
-      "email": "yvonne.davis@example.com",
+      "name": "Aiden Lee",
+      "email": "aiden.lee@example.com",
       "phone": "+1234567890",
-      "position_applied": "Backend Developer",
-      "experience_years": 5,
-      "skills": [
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-25T10:00:00Z",
-      "interviewer": "John Doe",
+      "position_applied": "Full Stack Developer",
+      "experience_years": 8,
       "status": "applied",
       "notes": ""
     },
     {
       "id": "26",
-      "name": "Zachary Chen",
-      "email": "zachary.chen@example.com",
-      "phone": "+0987654321",
-      "position_applied": "Frontend Developer",
-      "experience_years": 3,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Redux"
-      ],
-      "interview_date": "2024-09-26T14:00:00Z",
-      "interviewer": "Jane Doe",
-      "status": "applied",
-      "notes": ""
-    },
-    {
-      "id": "27",
-      "name": "Alice Johnson",
-      "email": "alice.johnson@example.com",
+      "name": "Brianna Patel",
+      "email": "brianna.patel@example.com",
       "phone": "+1234567890",
-      "position_applied": "DevOps Engineer",
-      "experience_years": 8,
-      "skills": [
-        "Docker",
-        "Kubernetes",
-        "Ansible"
-      ],
-      "interview_date": "2024-09-27T10:00:00Z",
-      "interviewer": "John Doe",
-      "status": "applied",
-      "notes": ""
-    },
-    {
-      "id": "28",
-      "name": "Brian Smith",
-      "email": "brian.smith@example.com",
-      "phone": "+0987654321",
-      "position_applied": "Full Stack Developer",
+      "position_applied": "Frontend Developer",
       "experience_years": 10,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-28T14:00:00Z",
-      "interviewer": "Jane Doe",
-      "status": "applied",
-      "notes": ""
-    },
-    {
-      "id": "29",
-      "name": "Carol Lee",
-      "email": "carol.lee@example.com",
-      "phone": "+1234567890",
-      "position_applied": "Backend Developer",
-      "experience_years": 5,
-      "skills": [
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "interview_date": "2024-09-29T10:00:00Z",
-      "interviewer": "John Doe",
-      "status": "applied",
-      "notes": ""
-    },
-    {
-      "id": "30",
-      "name": "David Kim",
-      "email": "david.kim@example.com",
-      "phone": "+0987654321",
-      "position_applied": "Frontend Developer",
-      "experience_years": 8,
-      "skills": [
-        "React",
-        "JavaScript",
-        "CSS",
-        "Redux"
-      ],
-      "interview_date": "2024-09-30T14:00:00Z",
-      "interviewer": "Jane Doe",
       "status": "applied",
       "notes": ""
     }

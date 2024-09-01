@@ -1,25 +1,31 @@
 import { FC, useState } from 'react';
-import { CreateRecordForm } from './components/modal/CreateRecordForm';
-import { DataTable } from './components/table/DataTable';
+import { AddCandidateModal } from './components/modals/add-candidate.modal';
+import { CandidatesTable } from './components/tables/candidates.table';
 
 const App: FC = () => {
 
-  const [openForm, setOpenForm] = useState(false);
+  const [openModal, setOpenModal] = useState(false);
 
-  const handleOpenForm = () => {
-    setOpenForm(true);
+  const handleOpenModal = () => {
+    setOpenModal(true);
   };
 
-  const handleCloseForm = () => {
-    setOpenForm(false);
+  const handleCloseModal = () => {
+    setOpenModal(false);
   };
   return (
-    <div className="app-container">
-      <button className="add-button" onClick={handleOpenForm}>
-        Add New Record
-      </button>
-      <DataTable />
-      <CreateRecordForm open={openForm} onClose={handleCloseForm} />
+    <div className="py-8 px-4">
+      <div className="flex mb-4 items-center">
+        <h1 className="text-2xl font-bold mb-4">Candidates</h1>
+        <button
+          className=" ml-auto bg-blue-700 hover:bg-blue-800 focus:ring-4 text-white font-bold py-2 px-4 rounded"
+          onClick={handleOpenModal}
+        >
+          Add candidate
+        </button>
+      </div>
+      <CandidatesTable />
+      <AddCandidateModal open={openModal} onClose={handleCloseModal} />
     </div>
   );
 }
